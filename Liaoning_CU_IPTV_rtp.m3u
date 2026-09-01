@@ -81,8 +81,6 @@ rtp://232.0.0.30:1234
 rtp://232.0.0.168:1234
 #EXTINF:-1 group-title="辽宁",辽宁经济
 rtp://232.0.0.156:1234
-#EXTINF:-1 group-title="辽宁",辽宁移动电视
-rtp://232.0.0.165:1234
 #EXTINF:-1 group-title="辽宁",沈阳新闻综合
 rtp://232.0.0.206:1234
 #EXTINF:-1 group-title="辽宁",抚顺综合
@@ -289,8 +287,6 @@ rtp://232.0.0.51:1234
 rtp://232.0.0.235:1234
 #EXTINF:-1 group-title="央视",中学生
 rtp://232.0.0.236:1234
-#EXTINF:-1 group-title="其他",新动漫
-rtp://232.0.0.36:1234
 #EXTINF:-1 group-title="其他",家庭理财
 rtp://232.0.0.39:1234
 #EXTINF:-1 group-title="其他",环球旅游
@@ -323,3 +319,7 @@ rtp://232.0.0.203:1234
 rtp://232.0.0.197:1234
 #EXTINF:-1 group-title="其他",东方财经
 rtp://232.0.0.224:1234
+#EXTINF:-1 group-title="其他",相声小品
+rtp://232.0.0.244:1234
+#EXTINF:-1 group-title="其他",解密
+rtp://232.0.0.248:1234
